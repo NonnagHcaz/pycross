@@ -1,0 +1,9 @@
+#documentation
+recursive-include docs *
+recursive-include tests *
+
+#Misc
+include README.md
+include LICENSE
+include requirements.txt
+include dev-requirements.txt
