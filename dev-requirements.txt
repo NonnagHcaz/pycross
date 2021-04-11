@@ -1,5 +1,5 @@
 wheel
 coverage
 codecov
-coveralls
+python-coveralls
 mock
